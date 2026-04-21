@@ -11,7 +11,9 @@
       "Bash(npm run *)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000/)",
       "Bash(npx tsc *)",
-      "Bash(gh --version)"
+      "Bash(gh --version)",
+      "Bash(netlify deploy *)",
+      "Bash(git push *)"
     ]
   }
 }
